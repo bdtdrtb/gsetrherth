@@ -1,0 +1,4 @@
+class DecentralizedGovernance:
+    def propose_motion(self, motion):
+        # Propose motions for decentralized governance
+        pass
